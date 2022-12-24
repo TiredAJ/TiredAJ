@@ -3,4 +3,4 @@
 - I’m currently learning: C++, C# & SQL
 - How to reach me: aletha.e.jones@gmail.com
 
-I have to be honest, I'm not sure if I'm using gitHub right
+I have to be honest, I'm not sure if I'm using GitHub right

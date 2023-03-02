@@ -1,6 +1,9 @@
-- Hi, I’m @TiredAJ, Aletha or just AJ
-- I’m interested in: Computers, chocolate
-- I’m currently learning: C++, C# & SQL
-- How to reach me: aletha.e.jones@gmail.com
+- Hi, I’m @TiredAJ, or just AJ
+- I’m interested in computers and chocolate
+- I primarily work in C# and C++
+- I'm kinda interested in learning C (for RaspberryPI and Arduino stuff), Lua and maybe (maybe) Java
+- You can reach me here: aletha.e.jones@gmail.com
 
-I have to be honest, I'm not sure if I'm using GitHub right
+Here I'll largely focus on my personal projects such as [AJGraphicsEngine](https://github.com/TiredAJ/AJGraphicsEngine)
+
+I'm not sure if I'm using GitHub right, but, we're making progress

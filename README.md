@@ -1,4 +1,4 @@
-2nd year Comp-sci student that loves to mess around with computers and coding. I go by AJ and she/they/te pronouns (whichever you remember). I primarily work in C#, but I do have some C++ projects. I'm interested in learning C and Java and maybe relearning Lua. I also have an Arduino Uno, two Pi 3B+'s and a couple of cables.
+2nd year Comp-sci student that loves to mess around with computers and coding. I go by AJ & they/them. I primarily work in C#, but I do have some C++ projects. I'm currently learning Rust & relearning Lua. I also have interest in learning C properly and Java. I also have an Arduino Uno, two Pi 3B+'s and a couple of cables :3
 
 I can be reached via email: aletha.e.jones@gmail.com (please add github to the subject) or via [LinkedIn](https://www.linkedin.com/in/Aletha-E-Jones/).
 

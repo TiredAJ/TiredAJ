@@ -9,8 +9,8 @@ Comms stuff in the works
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiredAJ&count_private=true&layout=compact&theme=synthwave" />
 </a>
 
-## My current project:
+<!--## My current project:
 
 <a href="https://github.com/TiredAJ/github-readme-stats">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=TiredAJ&repo=AJGraphicsEngine&theme=synthwave" />
-</a>
+</a>!-->

@@ -1,4 +1,4 @@
-3rd year Comp-sci student that loves to mess around with computers and coding. I go by AJ & they/them. 
+1st year Msc Comp-sci student that loves to mess around with computers and coding. I go by AJ & they/them. 
 
 I primarily work in C#, but I do have some C++ projects. I'm currently learning Rust & relearning Lua and have interest in learning C properly and some Java. I also have an Arduino Uno, two Pi 3B+'s and a couple of cables :3
 
